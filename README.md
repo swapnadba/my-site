@@ -75,7 +75,7 @@
     </h1>
     <!-- Image Section -->
     <div style="flex-basis: 40%; text-align: right;">
-       [ <img src="images/image1.jpg" alt="Football Image" style="width: 400px; height: 400px;">](https://raw.githubusercontent.com/USERNAME/REPO_NAME/main/images/football.jpg)
+    <img src="images/image1.jpg" alt="Football Image" style="width: 400px; height: 400px;">
     </div>
 </div>
     <!-- Slide 1 -->
